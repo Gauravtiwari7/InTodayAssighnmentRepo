@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="126881" started-at="2022-07-05T02:15:08 IST" finished-at="2022-07-05T02:17:15 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="126881" started-at="2022-07-05T02:15:08 IST" finished-at="2022-07-05T02:17:15 IST">
+      <class name="com.indiatoday.qa.testcases.WebStoryTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.indiatoday.qa.testcases.WebStoryTest@38bc8ab5]" name="setUp" is-config="true" duration-ms="7000" started-at="2022-07-05T02:16:49 IST" finished-at="2022-07-05T02:16:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickonwebstories()[pri:0, instance:com.indiatoday.qa.testcases.WebStoryTest@38bc8ab5]" name="clickonwebstories" duration-ms="12785" started-at="2022-07-05T02:16:56 IST" finished-at="2022-07-05T02:17:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonwebstories -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.indiatoday.qa.testcases.WebStoryTest@38bc8ab5]" name="setUp" is-config="true" duration-ms="3957" started-at="2022-07-05T02:17:08 IST" finished-at="2022-07-05T02:17:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickonwebstoryandcapturestorytext()[pri:0, instance:com.indiatoday.qa.testcases.WebStoryTest@38bc8ab5]" name="clickonwebstoryandcapturestorytext" duration-ms="2584" started-at="2022-07-05T02:17:12 IST" finished-at="2022-07-05T02:17:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonwebstoryandcapturestorytext -->
+      </class> <!-- com.indiatoday.qa.testcases.WebStoryTest -->
+      <class name="com.indiatoday.qa.testcases.BuzzPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.indiatoday.qa.testcases.BuzzPageTest@2bbf4b8b]" name="setUp" is-config="true" duration-ms="7591" started-at="2022-07-05T02:15:08 IST" finished-at="2022-07-05T02:15:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="findbrokenlinksonhomepage()[pri:0, instance:com.indiatoday.qa.testcases.BuzzPageTest@2bbf4b8b]" name="findbrokenlinksonhomepage" duration-ms="35962" started-at="2022-07-05T02:15:16 IST" finished-at="2022-07-05T02:15:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findbrokenlinksonhomepage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.indiatoday.qa.testcases.BuzzPageTest@2bbf4b8b]" name="tearDown" is-config="true" duration-ms="815" started-at="2022-07-05T02:15:52 IST" finished-at="2022-07-05T02:15:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.indiatoday.qa.testcases.BuzzPageTest -->
+      <class name="com.indiatoday.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.indiatoday.qa.testcases.HomePageTest@6b9651f3]" name="setUp" is-config="true" duration-ms="4341" started-at="2022-07-05T02:15:53 IST" finished-at="2022-07-05T02:15:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="changetheme()[pri:0, instance:com.indiatoday.qa.testcases.HomePageTest@6b9651f3]" name="changetheme" duration-ms="8131" started-at="2022-07-05T02:15:57 IST" finished-at="2022-07-05T02:16:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changetheme -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.indiatoday.qa.testcases.HomePageTest@6b9651f3]" name="tearDown" is-config="true" duration-ms="834" started-at="2022-07-05T02:16:05 IST" finished-at="2022-07-05T02:16:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.indiatoday.qa.testcases.HomePageTest@6b9651f3]" name="setUp" is-config="true" duration-ms="5697" started-at="2022-07-05T02:16:06 IST" finished-at="2022-07-05T02:16:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="findbrokenlinksonhomepage()[pri:0, instance:com.indiatoday.qa.testcases.HomePageTest@6b9651f3]" name="findbrokenlinksonhomepage" duration-ms="36451" started-at="2022-07-05T02:16:12 IST" finished-at="2022-07-05T02:16:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findbrokenlinksonhomepage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.indiatoday.qa.testcases.HomePageTest@6b9651f3]" name="tearDown" is-config="true" duration-ms="669" started-at="2022-07-05T02:16:48 IST" finished-at="2022-07-05T02:16:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.indiatoday.qa.testcases.HomePageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

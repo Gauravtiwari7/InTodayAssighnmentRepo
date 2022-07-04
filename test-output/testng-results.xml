@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15540" started-at="2022-07-05T02:12:36 IST" finished-at="2022-07-05T02:12:51 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15540" started-at="2022-07-05T02:12:36 IST" finished-at="2022-07-05T02:12:51 IST">
+      <class name="com.indiatoday.qa.testcases.WebStoryTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.indiatoday.qa.testcases.WebStoryTest@43a0cee9]" name="setUp" is-config="true" duration-ms="11150" started-at="2022-07-05T02:12:36 IST" finished-at="2022-07-05T02:12:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickonwebstoryandcapturestorytext()[pri:0, instance:com.indiatoday.qa.testcases.WebStoryTest@43a0cee9]" name="clickonwebstoryandcapturestorytext" duration-ms="4319" started-at="2022-07-05T02:12:47 IST" finished-at="2022-07-05T02:12:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonwebstoryandcapturestorytext -->
+      </class> <!-- com.indiatoday.qa.testcases.WebStoryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
